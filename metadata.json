@@ -1,0 +1,6 @@
+{
+  "name": "NovaMart - Full-Stack E-Commerce Platform",
+  "description": "Production-ready full-stack e-commerce web application with role-based access control (RBAC), product catalog management, transactional cart and checkout, and order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
